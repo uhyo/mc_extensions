@@ -1,0 +1,9 @@
+# mc_extensions
+作成したcanvas正男用拡張JSの集まりです。拡張機能の形になっているため簡単に利用可能です。
+
+## サンプル
+`Samples/`ディレクトリの下にあります。このリポジトリをcloneして`git submodule update --init`も忘れずに行ったあとに`Samples/`以下のhtmlファイルを開いてください。
+
+## 使用法
+サンプルを参照してください。
+
